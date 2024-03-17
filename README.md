@@ -1,6 +1,6 @@
 ## Overview
 
-The provided Python program implements a simple image encryption and decryption tool using basic pixel manipulation techniques. The program allows users to encrypt and decrypt images by performing operations such as swapping pixel values.
+The Python program implements a simple image encryption and decryption tool using basic pixel manipulation techniques. The program allows users to encrypt and decrypt images by performing operations such as swapping pixel values.
 
 
 ## Requirements
@@ -13,21 +13,26 @@ Pillow (Python Imaging Library - Fork): Pillow is a fork of the Python Imaging L
 
 ## Usage
 
-1. To run the code:
+1. To get the the code
 
-     https://github.com/Secret-diary/Prodigy_CS_02.git
+              git clone https://github.com/Secret-diary/Prodigy_CS_02.git
 
 2. Navigate to the directory
 
 3. Run the Program
+   
             python3 Prodigy_cs_02.py
 
 
 ## Example
 
 Enter the path to the image: <path>
+
 Enter the operation (swap/multiply): multiply
+
 Enter the key (integer): 5
+
 Image encrypted successfully
+
 Image decrypted successfully
 
