@@ -1,3 +1,5 @@
+                                   ## Image Encryption and Decryption
+
 ## Overview
 
 The Python program implements a simple image encryption and decryption tool using basic pixel manipulation techniques. The program allows users to encrypt and decrypt images by performing operations such as swapping pixel values.
